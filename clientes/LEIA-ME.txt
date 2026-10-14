@@ -1,0 +1,1 @@
+Coloque aqui as fotos dos clientes (proporcao 4:3, ex.: empresa.jpg) e use o caminho "clientes/empresa.jpg" no campo imagem da lista CLIENTES.
